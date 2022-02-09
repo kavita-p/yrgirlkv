@@ -1,7 +1,7 @@
 ### Hey!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvpoduri)
 
-I'm Kavita Poduri (she/her.) I like solving problems as simply and efficiently as possible.
+I'm Kavita Poduri (she/her.) I'm a Bay Area software engineer with a background in analog game design. I've got an eye for detail and the drive to solve problems as efficiently as possible, and I like knowing my tech inside and out. Feel free to message me if you're interested in chatting!
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
